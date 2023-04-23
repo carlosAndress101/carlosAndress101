@@ -38,7 +38,7 @@
 <h2 align="center"> :speech_balloon: Contact Me </h2>
 <p align="center">
   <br/>
-  <a href="https://www.linkedin.com/in/carlos-andres-hinestroza-perez-175057211">
+  <a href="https://www.linkedin.com/in/carlos-andr%C3%A9s-hinestroza-p%C3%A9rez-175057211/">
     <img align="center" alt="CarlosLikedin | Linkedin" width="24px" src="https://cdn.icon-icons.com/icons2/792/PNG/512/LINKEDIN_icon-icons.com_65538.png"/>
   </a> &nbsp;&nbsp;
   <a href="https://twitter.com/CarlosHP101">
