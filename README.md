@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-carlos-hinestroza.vercel.app/](https://portfolio-carlos-hinestroza.vercel.app/)
 
-- 📝 I regularly write articles about books in [https://github.com/carlosAndress101](https://portfolio-carlos-hinestroza.vercel.app/)
+- 📝 I regularly write articles about books in [portfolio](https://portfolio-carlos-hinestroza.vercel.app/)
 
 - 📫 How to reach me **carloshinestroza101@gmail.com**
 
