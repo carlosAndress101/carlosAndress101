@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Carlos andres</h1>
 <h3 align="center">I am a very altruistic, respectful and responsible person, a lover of teamwork and always with a great interest in going above and beyond. I like to help people in any way I can.</h3>
 
-- 🔭 I’m currently working on [SH1FT3R(a company founded by me)](https://github.com/carlosAndress101)
+- 🔭 I’m currently working on [SH1FT3R(a company founded by me)](https://portfolio-carlos-hinestroza.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/carlosAndress101](https://github.com/carlosAndress101)
+- 👨‍💻 All of my projects are available at [https://portfolio-carlos-hinestroza.vercel.app/](https://portfolio-carlos-hinestroza.vercel.app/)
 
-- 📝 I regularly write articles about books in [https://github.com/carlosAndress101](https://github.com/carlosAndress101)
+- 📝 I regularly write articles about books in [https://github.com/carlosAndress101](https://portfolio-carlos-hinestroza.vercel.app/)
 
 - 📫 How to reach me **carloshinestroza101@gmail.com**
 
