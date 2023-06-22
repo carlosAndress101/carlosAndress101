@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Carlos andres</h1>
 <h3 align="center">I am a very altruistic, respectful and responsible person, a lover of teamwork and always with a great interest in going above and beyond. I like to help people in any way I can.</h3>
 
-- 🔭 I’m currently working on [SH1FT3R(a company founded by me)](https://portfolio-carlos-hinestroza.vercel.app/)
+- 👨‍💻 All of my projects are available at [public projects](https://www.carloshinestroza.dev/projects)
 
-- 👨‍💻 All of my projects are available at [https://portfolio-carlos-hinestroza.vercel.app/](https://portfolio-carlos-hinestroza.vercel.app/)
-
-- 📝 I regularly write articles about books in [portfolio](https://portfolio-carlos-hinestroza.vercel.app/)
+- 📝 I regularly write articles about books also code in my [portfolio](https://www.carloshinestroza.dev/articles))
 
 - 📫 How to reach me **carloshinestroza101@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="portfolio-carlos-hinestroza.vercel.app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="portfolio-carlos-hinestroza.vercel.app" height="30" width="40" /></a>
+<a href="https://www.carloshinestroza.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="carlos andres hinestroza perez" height="30" width="40" /></a>
 <a href="https://twitter.com/carlosah1101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="carlosah1101" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/carlos-andr%c3%a9s-hinestroza-p%c3%a9rez-175057211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/carlos-andr%c3%a9s-hinestroza-p%c3%a9rez-175057211/" height="30" width="40" /></a>
 </p>
