@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Carlos andres</h1>
+<h1 align="center">Hi 👋, I'm Carlos Andrés</h1>
 <h3 align="center">I am a very altruistic, respectful and responsible person, a lover of teamwork and always with a great interest in going above and beyond. I like to help people in any way I can.</h3>
 
 - 👨‍💻 All of my projects are available at [public projects](https://www.carloshinestroza.dev/projects)
